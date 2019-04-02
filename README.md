@@ -1,4 +1,4 @@
-# Kera-app with Docker
+# Keras-app with Docker
 
 This project is a simple example of deep learning model from Keras blog. It serves a REST API with Flask.
 
